@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    font-family: "raleway", sans-serif;
+}
+.Titulo{
+    background-color:#000000;
+    color: #ffffff;
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Iguana {
+    background-image: url(assets/img/bg-header.jpg);
+    background-size: cover;
+
+}
+.descripcion {
+    background-color: #000000;
+    padding: 5rem;
+    margin-top: -10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.texto{
+    color: #ffffff;
+    width: 100%;
+    padding-left: 0rem;
+    text-align: center;
+}
+.imagen img{
+    width: 100%;
+    text-align: center;
+    float: left;
+    margin: 1rem;
+    
+}
+
+.descripcion2 {
+    height: 15rem;
+    color: #ffffff;
+    background-color: #1e1a13;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+
+}
+.titulo{
+    margin-bottom: 2rem;
+}
+
+.iconos {
+    font-size: 50px;
+    text-align: center;
+    
+
+
+}
+
+.textoiconos {
+    display: block;
+    font-size: 25px;
+    padding-top: 3rem;
+
+}
+ .imagenes {
+    text-align: center;
+    background-color: black;
+    padding: 3rem;
+
+ }
+ .imagenes img{
+    height: 202px;
+    width: 316px;
+    
+ }
+.fin{
+    background-color: #1e1a13;
+    color: #ffffff;
+    padding: 2rem;
+    text-align: center;
+    font-size: 23px;
+    
+}
+
+
+  
+       
+   
+
+    
+
+
+
+
+  
+
+ 
+ 
+

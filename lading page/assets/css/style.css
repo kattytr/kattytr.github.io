@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+}
+
+#principal {
+    background-image: url("/assets/img/peng-wang-2bxli6toVLo-unsplash\ \(1\).jpg");
+    background-position: center;
+    background-size: cover;
+    border: 2px solid whitesmoke;
+    height: 10rem;
+    padding: 5rem;
+    height: 200px;
+
+    /* 1rem - 16 px */
+    margin-bottom: 2rem;
+}
+
+#principal,
+h1,
+p {
+    color: rgba(255, 255, 255, 0.897);
+    font-size: 140%;
+    font-family: Georgia;
+}
+
+.padre {
+    padding-left: 3rem;
+    margin-bottom: 3rem
+}
+.imagen {
+    display: inline-block;
+    vertical-align: middle;
+}
+.descripcion {
+    display: inline-block;
+    font-size: 200%;
+    font-family: Georgia;
+    text-align: center;
+}
+
+.tituloproducto {
+    padding-top: 10rem;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
